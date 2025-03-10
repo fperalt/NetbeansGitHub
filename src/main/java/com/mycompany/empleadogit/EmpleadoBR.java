@@ -18,6 +18,7 @@ class BRException extends Exception {
 /**
  *
  * @author franp
+ * @version v1
  */
 public class EmpleadoBR {
    //private String nombre;
